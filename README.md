@@ -1,4 +1,4 @@
-## Spring Boot - call more than 1 external service @Async and join them
+## Spring Boot - call more than 1 external service @Async and join all
 
 Medium link : 
 
